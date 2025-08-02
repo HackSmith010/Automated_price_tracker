@@ -1,0 +1,23 @@
+{
+    "amazon.in": {
+        "title": {
+            "tag": "span",
+            "id": "productTitle"
+        },
+        "price": {
+            "tag": "span",
+            "class": "a-price-whole"
+        }
+    },
+    "flipkart.com": {
+        "title": {
+            "tag": "span",
+            "class": "VU-Zez"
+        },
+        "price": {
+            "tag": "div",
+            "class": "Nx9bqj CxhGGd yKS4la"
+        }
+    }
+}
+
