@@ -2,7 +2,7 @@
     "amazon.in": {
         "title": {
             "tag": "span",
-            "id": "productTitle"
+            "class": "a-size-large product-title-word-break"
         },
         "price": {
             "tag": "span",
@@ -12,12 +12,21 @@
     "flipkart.com": {
         "title": {
             "tag": "span",
-            "class": "VU-Zez"
+            "class": "VU-ZEz"
         },
         "price": {
             "tag": "div",
-            "class": "Nx9bqj CxhGGd yKS4la"
+            "class": "Nx9bqj"
+        }
+    },
+    "croma.com":{
+        "title": {
+            "tag": "h1",
+            "class": "pd-title"
+        },
+        "price": {
+            "tag": "span",
+            "class": "amount"
         }
     }
 }
-
