@@ -27,15 +27,14 @@ An automated web scraping application that tracks product prices from multiple e
 1.  **Clone the Repository**
 
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/HackSmith010/Automated_price_tracker.git
+    cd Automated_price_tracker
     ```
 
 2.  **Install Dependencies**
-    This command reads the `pyproject.toml` file to create a virtual environment and install the necessary packages (`requests`, `beautifulsoup4`, `schedule`).
+    This command reads the `pyproject.toml` file to  install the necessary packages (`requests`, `beautifulsoup4`, `schedule`).
 
     ```bash
-    uv venv
     uv pip sync
     ```
 
@@ -63,7 +62,7 @@ An automated web scraping application that tracks product prices from multiple e
 To start the automated tracker, run the `main.py` script from your terminal.
 
 ```bash
-python main.py
+uv run main.py
 ```
 
 The script will:
