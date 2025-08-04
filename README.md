@@ -1,6 +1,6 @@
 -----
 
-# Multi-Site Price Tracker 📉
+# Multi-Site Price Tracker 📉..
 
 An automated web scraping application that tracks product prices from multiple e-commerce websites, saves the price history to an SQLite database, and runs on a daily schedule.
 
